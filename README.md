@@ -18,5 +18,3 @@
 * **English:** Intermediate 
 * **Polish:** Upper-Intermediate
 
-### 📊 GitHub Stats
-![povod9 stats](https://github-readme-stats.vercel.app/api?username=povod9&show_icons=true&theme=dark)
