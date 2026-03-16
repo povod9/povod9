@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👨‍💻 About Me
+* 🎓 **Education:** Computer Science student at **WSZIB (Kraków)**.
+* 🎯 **Goal:** Seeking a commercial internship or Junior position in Java Backend development.
 
-<!--
-**povod9/povod9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Backend & Core**
+* **Languages:** Java, SQL.
+* **Frameworks:** Spring Boot, Spring Data JPA, Spring Security.
+* **API:** REST, JWT Authentication, Spring Cloud Gateway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Infrastructure & Databases**
+* **Databases:** PostgreSQL, Redis.
+* **Tools:** Docker, Docker Compose, Git, Maven.
+
+### 🌐 Languages
+* **Ukrainian:** Native
+* **English:** Intermediate 
+* **Polish:** Upper-Intermediate
+
+### 📊 GitHub Stats
+![povod9 stats](https://github-readme-stats.vercel.app/api?username=povod9&show_icons=true&theme=dark)
