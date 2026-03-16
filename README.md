@@ -1,8 +1,8 @@
-### 👨‍💻 About Me
-* 🎓 **Education:** Computer Science student at **WSZIB (Kraków)**.
-* 🎯 **Goal:** Seeking a commercial internship or Junior position in Java Backend development.
+### About Me
+*  **Education:** Computer Science student at **WSZIB (Kraków)**.
+*  **Goal:** Seeking a commercial internship or Junior position in Java Backend development.
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Backend & Core**
 * **Languages:** Java, SQL.
@@ -13,7 +13,7 @@
 * **Databases:** PostgreSQL, Redis.
 * **Tools:** Docker, Docker Compose, Git, Maven.
 
-### 🌐 Languages
+###  Languages
 * **Ukrainian:** Native
 * **English:** Intermediate 
 * **Polish:** Upper-Intermediate
