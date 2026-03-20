@@ -14,7 +14,6 @@
 ###  Contact Details
 *  **Email:** [nazarpovod113@gmail.com](nazarpovod113@gmail.com)
 *  **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/nazar-povod-18637b3a5/)]
-*  **Codewars:** [povod9 Profile](https://www.codewars.com/users/povod9)
 
 ###  Languages
 * **Ukrainian:** Native
