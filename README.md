@@ -13,11 +13,11 @@
 
 ###  Contact Details
 *  **Email:** [nazarpovod113@gmail.com](nazarpovod113@gmail.com)
-*  **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/nazar-povod-18637b3a5/)]
+*  **LinkedIn:** [LinkedIn Profile Link](https://www.linkedin.com/in/nazar-povod-18637b3a5/)
 
 ###  Languages
 * **Ukrainian:** Native
-* **English:** Intermediate 
+* **English:** Upper-Intermediate 
 * **Polish:** Upper-Intermediate
 
 ![](https://komarev.com/ghpvc/?username=povod9&color=blue)
